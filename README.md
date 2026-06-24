@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi! I'm Sys-Daemon 👋
 
-<!--
-**sys-daemon-0/sys-daemon-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a budding developer. I'm currently actively learning to code and building my first projects.
 
-Here are some ideas to get you started:
+### 🛠️ What I'm currently learning:
+- 🐍 Programming languages: **JavaScript/HTML**
+- 🐙 Version control with **Git** and **GitHub**
+- 💻 Basic algorithms and creating simple programs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My near-term goals:
+- Build my first Telegram bot
+- Create a responsive portfolio website
+- Complete a basic computer science course
+
+---
+*"Every expert was once a beginner." Glad to see you on my profile!*
