@@ -15,5 +15,3 @@ I'm a budding developer. I'm currently actively learning to code and building my
 ---
 *"Every expert was once a beginner." Glad to see you on my profile!*
 
-### 📊 Моя статистика GitHub:
-![Статистика GitHub](https://vercel.app)
