@@ -2,20 +2,15 @@
   <img src="github-snake.svg" alt="GitHub Snake">
 </p>
 
-
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</p>
-
-
+---
 
 # Hi! I'm Sys-Daemon 👋
 
 I'm a budding developer. I'm currently actively learning to code and building my first projects.
 
 ### 🛠️ What I'm currently learning:
-- 🐍 Programming languages: **JavaScript/HTML**
-- 🐙 Version control with **Git** and **GitHub**
+- 🐍 Programming languages: ` JavaScript ` ` HTML5 ` ` CSS3 `
+- 🐙 Version control with ` Git ` and ` GitHub `
 - 💻 Basic algorithms and creating simple programs
 
 ### 🚀 My near-term goals:
