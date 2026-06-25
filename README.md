@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <img alt="github-snake" src="https://githubusercontent.com">
+</picture>
+
+
 # Hi! I'm Sys-Daemon 👋
 
 I'm a budding developer. I'm currently actively learning to code and building my first projects.
