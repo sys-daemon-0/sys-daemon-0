@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <img alt="github-snake" src="https://githubusercontent.com">
-</picture>
-
+![GitHub Contributions Snake](https://github.io)
 
 # Hi! I'm Sys-Daemon 👋
 
