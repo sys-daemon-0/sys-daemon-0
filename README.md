@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.io" alt="GitHub Snake">
+  <img src="github-snake.svg" alt="GitHub Snake">
 </p>
+
 
 
 # Hi! I'm Sys-Daemon 👋
