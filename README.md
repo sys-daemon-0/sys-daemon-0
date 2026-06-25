@@ -14,9 +14,3 @@ I'm a budding developer. I'm currently actively learning to code and building my
 
 ---
 *"Every expert was once a beginner." Glad to see you on my profile!*
-
-### 📊 Моя статистика:
-![](https://demolab.com)
-
-### 🛠️ Мои технологии:
-[![My Skills](https://skill-icons.tech)](https://skill-icons.tech)
