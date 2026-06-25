@@ -1,4 +1,6 @@
-![GitHub Contributions Snake](https://githubusercontent.com)
+<p align="center">
+  <img src="https://githubusercontent.com" alt="GitHub Snake">
+</p>
 
 
 # Hi! I'm Sys-Daemon 👋
