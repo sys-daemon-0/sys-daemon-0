@@ -34,13 +34,14 @@
 </p>
 
  <div align="center"> 
-𝐈'𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐚𝐜𝐭𝐢𝐯𝐞𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐭𝐨 𝐜𝐨𝐝𝐞 𝐚𝐧𝐝 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐦𝐲 𝐟𝐢𝐫𝐬𝐭 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬.
+   
+ ### I'm currently actively learning to code and building my first projects.
  </div>
 
 #
 <div align="center">
   
-  ### 🛠️ What I'm currently learning:
+### 🛠️ What I'm currently learning:
 
 🐙 Version control with Git and GitHub
 
@@ -52,9 +53,13 @@
 <div align="center">
   
 ### 🚀 My near-term goals:
-- Build my first Telegram bot
-- Create a responsive portfolio website
-- Complete a basic computer science course
+
+Build my first Telegram bot
+
+Create a responsive portfolio website
+
+Complete a basic computer science course
+</div>
 
 #
 
