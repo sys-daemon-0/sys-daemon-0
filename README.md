@@ -21,23 +21,3 @@ I'm a budding developer. I'm currently actively learning to code and building my
 ---
 *"Every expert was once a beginner." Glad to see you on my profile!*
 
-
-# 👹 sys-daemon-0 / budding developer
-
-### 
-
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
-
-### 
-
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
-
-### 🚀 Мои цели:
-* 🤖 Сборка первого Telegram-бота
-* 🌐 Адаптивный сайт-портфолио
-* 🎓 Базовый курс Computer Science
-
----
-
-### 🐍 GitHub Snake
-![github-snake](https://githubusercontent.com)
