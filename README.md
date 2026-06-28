@@ -62,7 +62,8 @@ Complete a basic computer science course
 </div>
 
 #
-
+<div align="center">
+  
 *"Every expert was once a beginner." Glad to see you on my profile!*
 
 
